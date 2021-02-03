@@ -4,7 +4,34 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartingScene.unity
+    guid: 0476ece7c77868a4f9fe3a5d0a8de9a4
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/03 The Viking.unity
+    guid: e1c31650dc229e84f9b8e68c44e84485
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/04 World Boundaries.unity
+    guid: 650cee853392cc147a200d0cb4fa3656
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/05_06_07 Animation.unity
+    guid: 010edacf657f5bd4aa1ec2d0f81e2bda
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/08 Prefabs and Collectables.unity
+    guid: daf6b2b8ef7b0a74f86d69038a22824c
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/09 Spawning Collectables.unity
+    guid: bbbe964e89ed93b40b21beedc882452a
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/10 The Game Manager.unity
+    guid: cd687c918794f7349a63eb88c05f632a
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/11 Audio.unity
+    guid: f72674608bb5d3f4abdda29353d55805
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/12 Improving Graphics.unity
+    guid: 050be6dc65bc3d749a39a8c48bf08877
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: f90216170c4f68b44b591828b401e26f,
       type: 2}
